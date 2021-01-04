@@ -1,0 +1,14 @@
+{
+    "info": {
+        "url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
+        "url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
+        "location": "Germany",
+        "about": {
+            "me": "We are professionally from the DevOps sector and are absolute fans of the Cardano project.",
+            "server": "Several relay nodes ensure good availability. Our nodes run in a 24/7 cloud. Daily Backups and High Availability.",
+        },
+    },
+    "my-pool-ids": {
+        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
+    }
+}
