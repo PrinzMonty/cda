@@ -2,5 +2,6 @@
 "name": "Crypto Dredge Stake Pool",
 "description": "A highly secure Staking Pool for Cardano.",
 "ticker": "CDA",
-"homepage": "https://crypto-dredge.com"
+"homepage": "https://crypto-dredge.com",
+"extended": "https://raw.githubusercontent.com/PrinzMonty/cda/main/extended-cda.json"
 }
