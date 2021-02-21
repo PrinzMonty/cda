@@ -3,6 +3,12 @@
       "url_png_icon_64x64":"https://crypto-dredge.com/wp-content/uploads/2021/01/logo_new_weiss_64.png",
       "url_png_logo":"https://crypto-dredge.com/wp-content/uploads/2021/01/logo_new_weiss-1.png",
       "location":"Germany",
+      "social": {
+      "twitter_handle": "DredgeCrypto",
+      "telegram_handle": "crypto-dredge.com",
+      "youtube_handle": "UC4HBqcsaEEcSW3XUaLGBxZQ",
+      "discord_handle": "796769797705695286"
+      },
       "about":{
          "me":"We are professionally from the DevOps sector and are absolute fans of the Cardano project.",
          "server":"Several relay nodes ensure good availability. Our nodes run in a 24/7 cloud. Daily Backups and High Availability."
